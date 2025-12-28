@@ -7,8 +7,8 @@ Welcome to Day 1 of your Python learning journey!
 | File | Description |
 |------|-------------|
 | `01_tutorial.md` | Complete Day 1 tutorial with all concepts |
-| `02_examples.py` | Runnable code examples for all topics |
-| `03_exercises.py` | 8 practice exercises with solutions |
+| `02_examples.ipynb` | 📓 Interactive Jupyter notebook with code examples |
+| `03_exercises.ipynb` | 📓 Interactive Jupyter notebook with 8 practice exercises |
 | `04_calculator_project.py` | Mini-project: Advanced calculator |
 | `README.md` | This file - your starting point |
 
@@ -26,17 +26,17 @@ Open `01_tutorial.md` and read through all sections:
 - Input/output
 - Code formatting
 
-### Step 2: Run the Examples (30 min)
-```bash
-python 02_examples.py
-```
-Study the output and understand each section.
+### Step 2: Work Through Examples (30 min)
+Open `02_examples.ipynb` in Jupyter Notebook or VS Code:
+- Run each cell to see live output
+- Experiment by modifying the code
+- Study the output and understand each section
 
 ### Step 3: Complete Exercises (2-3 hours)
-Open `03_exercises.py` and solve all 8 exercises:
+Open `03_exercises.ipynb` and solve all 8 exercises:
 - Try solving each yourself first
-- Solutions are at the bottom of the file
-- Run individual solutions to test
+- Run cells to test your solutions
+- Solutions are at the bottom of the notebook
 
 ### Step 4: Build the Calculator (1 hour)
 Work on `04_calculator_project.py`:
@@ -55,7 +55,7 @@ Before moving to Day 2, make sure you:
 - [ ] **Understand**: Variables and all 4 data types (int, float, str, bool)
 - [ ] **Master**: All 3 operator types (arithmetic, comparison, logical)
 - [ ] **Practice**: Input/output with f-strings
-- [ ] **Complete**: All 8 exercises in `03_exercises.py`
+- [ ] **Complete**: All 8 exercises in `03_exercises.ipynb`
 - [ ] **Build**: Working calculator project
 - [ ] **Code Style**: Can write clean, commented code
 
